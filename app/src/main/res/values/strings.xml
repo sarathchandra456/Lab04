@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lab04</string>
+    <string name="name">Name</string>
+    <string name="sign_up">sign up</string>
+    <string name="channel_description">welcome to the MAD team</string>
+    <string name="channel_name">Hello name !</string>
+    <string name="email">Email</string>
+    <string name="phone">Telephone</string>
+    <string name="pw">Password</string>
+    <string name="repw">Retype Password</string>
+    <string name="reg">register</string>
+    <string name="cancel">cancel</string>
+
+</resources>
